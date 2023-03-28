@@ -34,3 +34,69 @@ siguiente manera:
  El Cual escojemos el marcado en negrita.
  ***
 
+ ***
+
+## Entrenar f(x,y,z)=sen(x)+cos(y)+z
+El data set se encuentra en la carpeta raiz del proyecto, el cual esta estructurado de la
+siguiente manera:
+
+- NeuronasIA
+   - Datasets
+      - 'Exercise_letter_t'
+      - **'Exercise_function'**
+      - 'Exercise_train'
+      - 'Exercise_train_sensors'
+      - 'Exercise_train_resfriate'
+ 
+ El Cual escojemos el marcado en negrita.
+ ***
+
+ ## Entrenar con perceptron y madaline
+El data set se encuentra en la carpeta raiz del proyecto, el cual esta estructurado de la
+siguiente manera:
+
+- NeuronasIA
+   - Datasets
+      - 'Exercise_letter_t'
+      - 'Exercise_function'
+      - **'Exercise_train'**
+      - 'Exercise_train_sensors'
+      - 'Exercise_train_resfriate'
+ 
+ El Cual escojemos el marcado en negrita.
+ ***
+
+
+
+ ## Entrenar estados de los sensores de un minirobot
+El data set se encuentra en la carpeta raiz del proyecto, el cual esta estructurado de la
+siguiente manera:
+
+- NeuronasIA
+   - Datasets
+      - 'Exercise_letter_t'
+      - 'Exercise_function'
+      - 'Exercise_train'
+      - **'Exercise_train_sensors'**
+      - 'Exercise_train_resfriate'
+ 
+ El Cual escojemos el marcado en negrita.
+ ***
+
+## Entrenar resfriado  con perceptron y madaline
+El data set se encuentra en la carpeta raiz del proyecto, el cual esta estructurado de la
+siguiente manera:
+
+- NeuronasIA
+   - Datasets
+      - 'Exercise_letter_t'
+      - 'Exercise_function'
+      - 'Exercise_train'
+      - 'Exercise_train_sensors'
+      - **'Exercise_train_resfriate'**
+ 
+ El Cual escojemos el marcado en negrita.
+ ***
+
+ ## Author - Cristian Gonzalez @kbgeptupsi
+
