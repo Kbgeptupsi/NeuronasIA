@@ -12,7 +12,7 @@ net.b{1}
 net.iw{2,1}
 net.b{2}
 net.trainParam.epochs=500;
-net.trainParam.goal=0
+net.trainParam.goal=1e-8
 net=train(net,E,S);
 b=sim(net,E)
 

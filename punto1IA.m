@@ -20,12 +20,12 @@ S=[0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1
 
 let = newff( [min(E')' max(E')'],[20 5],{'tansig','purelin'},'trainlm');
 let=init(let)
-net.iw{1,1}
-net.b{1}
-net.iw{2,1}
-net.b{2}
+let.iw{1,1}
+let.b{1}
+let.iw{2,1}
+let.b{2}
 let.trainParam.epochs=500
-let.trainParam.goal=0
+let.trainParam.goal=1e-8
 let=train(let,E,S)
 a=sim(let,E)
 
